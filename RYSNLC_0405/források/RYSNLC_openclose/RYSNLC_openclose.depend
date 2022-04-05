@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649166033 source:c:\users\onodi\desktop\Ónodi bence\uni\2022 ii.félév\os\9.gzak\rysnlc_openclose\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<fcntl.h>
+	<string.h>
+
